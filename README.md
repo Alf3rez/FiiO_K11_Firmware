@@ -1,4 +1,4 @@
-# $\color{#da0039}\Huge{\text{FiiO K11 Firmware}}$
+# FiiO K11 Firmware
 This repositoy has the intention to recap the FiiO K11 Firmware versions outside of the forum but always from the official URL:
 
 `https://fiio-firmware.oss-us-west-1.aliyuncs.com/K11/英文固件/K11%20V[NUMBER_OF_VERSION]%20Firmware.zip`
