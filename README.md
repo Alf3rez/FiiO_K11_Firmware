@@ -1,7 +1,9 @@
 # FiiO K11 Firmware
-This repositoy has the intention to recap the FiiO K11 Firmware versions outside of the forum but always from the official URL:
+This repositoy has the intention to recap the FiiO K11 Firmware versions outside of the forum but always from the official URLs:
 
-`https://fiio-firmware.oss-us-west-1.aliyuncs.com/K11/英文固件/K11%20V[NUMBER_OF_VERSION]%20Firmware.zip`
+• `https://fiio-firmware.oss-us-west-1.aliyuncs.com/K11/英文固件/K11%20V[NUMBER_OF_VERSION]%20Firmware.zip`
+
+• `https://fiio-firmware.fiio.net/K11/K11%20V[NUMBER_OF_VERSION].zip`
 
 But trying to maintain a proper explanation of every version.
 
